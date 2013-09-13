@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+# Text Editor Backups
+*~
+*.bak
